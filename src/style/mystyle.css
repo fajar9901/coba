@@ -1,0 +1,40 @@
+.my-button {
+    /* Green */
+    float: center;
+    border: none;
+    color: white;
+    padding: 10px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+ 
+.btn-blue {
+    background-color: #008CBA;
+}
+ 
+ 
+/* Blue */
+ 
+.btn-red {
+    background-color: #f44336;
+}
+ 
+ 
+/* Red */
+ 
+.btn-black {
+    background-color: #e7e7e7;
+    color: black;
+}
+ 
+ 
+/* Gray */
+ 
+.btn-yellow {
+    background-color: #ff9b04fa;
+}

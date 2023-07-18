@@ -1,0 +1,9 @@
+.card {
+    background-color: #f2f6f4;
+    border-radius: 2px;
+    padding: 16px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    /* height: 80vh;  */
+}

@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "nama": "Budi",
+      "alamat": "DKI Jakarta",
+      "telpon": "123344"
+    },
+    {
+      "id": 3,
+      "nama": "cubay",
+      "alamat": "Banten",
+      "telpon": "081293034948"
+    },
+    {
+      "id": 4,
+      "nama": "cubay",
+      "alamat": "Pandeglang",
+      "telpon": "081293034948"
+    },
+    {
+      "id": 5,
+      "nama": "sandi",
+      "alamat": "Jakarta",
+      "telpon": "1234567"
+    },
+    {
+      "id": 1,
+      "nama": "alif",
+      "alamat": "kebon kopi",
+      "telpon": "085617374748"
+    },
+    {
+      "id": 6,
+      "nama": "kakak",
+      "alamat": "kebon kopi",
+      "telpon": "091287389129"
+    }
+  ]
+}

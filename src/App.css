@@ -1,0 +1,14 @@
+.card {
+  display: flex;
+}
+.card {
+  background-color: #f1f1f1;
+  padding: 10px;
+  margin: 10px;
+}
+container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Menyesuaikan tinggi container dengan tinggi halaman */
+}
